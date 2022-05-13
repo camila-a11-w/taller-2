@@ -3,7 +3,7 @@ Algoritmo promedio_notas
 	definir numeroestudiantes Como Entero
 	definir nota como real 
 	definir acum,promedio Como Real
-	mostrar " ingrese numero estudiantes "
+	mostrar " ingrese numero personas "
 	leer numeroestudiantes 
 	
 	para i=1 hasta numeroestudiantes con paso 1 hacer 
